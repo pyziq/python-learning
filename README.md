@@ -1,3 +1,6 @@
 # python-learning
-the simple python 
-主要记录CS61A课程作业
+the simple python code
+
+主要记录python简单教程
+
+学习python示例
